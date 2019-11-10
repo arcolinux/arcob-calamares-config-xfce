@@ -1,0 +1,2 @@
+# ArcoLinuxB-Xfce Calamares configuration
+
