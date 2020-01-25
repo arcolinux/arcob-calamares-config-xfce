@@ -222,6 +222,7 @@
     - numix-circle-arc-icons-git
     - numix-circle-icon-theme-git
     - oxy-neon
+    - paper-icon-theme
     - papirus-icon-theme
     - xcursor-simpleandsoft
 - name: "Utilities"
