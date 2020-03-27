@@ -16,16 +16,6 @@
     - arcolinux-plank-themes-git
     - screenkey-git
     - xfburn
-- name: "Conky"
-  description: "Conky and conky collection"
-  critical: false
-  hidden: false
-  selected: false
-  packages:
-    - conky-lua-archers
-    - arcolinux-conky-collection-git
-    - yad
-    - arcolinux-pipemenus-git
 - name: "File Manager"
   description: "Filemanager"
   critical: false
