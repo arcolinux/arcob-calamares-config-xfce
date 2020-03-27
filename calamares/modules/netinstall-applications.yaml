@@ -67,7 +67,6 @@
     - nitrogen
     - nomacs
     - pinta
-    - ristretto
 - name: "Fun"
   description: "Fun"
   critical: false
