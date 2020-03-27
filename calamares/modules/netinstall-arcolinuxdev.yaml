@@ -5,6 +5,15 @@
   selected: false
   expanded: true
   packages:
+    - firefox
+    - sublime-text-dev
     - flameshot
+    - scrot
+    - meld
+    - the_platinum_searcher-bin
+    - thunar
+    - thunar-archive-plugin
+    - thunar-volman
+    - arcolinux-xfce-git
     - telegram-desktop
     - discord

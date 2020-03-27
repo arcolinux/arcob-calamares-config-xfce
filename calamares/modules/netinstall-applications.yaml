@@ -5,11 +5,27 @@
   selected: false
   packages:
     - cheese
+    - font-manager-git
+    - galculator
     - flameshot
     - liferea
     - mediainfo
     - mcomix
     - pdfarranger
+    - plank
+    - arcolinux-plank-themes-git
+    - screenkey-git
+    - xfburn
+- name: "Conky"
+  description: "Conky and conky collection"
+  critical: false
+  hidden: false
+  selected: false
+  packages:
+    - conky-lua-archers
+    - arcolinux-conky-collection-git
+    - yad
+    - arcolinux-pipemenus-git
 - name: "File Manager"
   description: "Filemanager"
   critical: false
@@ -24,6 +40,9 @@
     - nemo-fileroller
     - pcmanfm
     - ranger
+    - thunar
+    - thunar-archive-plugin
+    - thunar-volman
 - name: "Fonts"
   description: "Fonts"
   critical: false
@@ -31,6 +50,10 @@
   selected: false
   packages:
     - terminus-font
+    - ttf-bitstream-vera
+    - ttf-fira-code
+    - ttf-inconsolata
+    - ttf-liberation
 - name: "Git"
   description: "Git"
   critical: false
@@ -50,8 +73,14 @@
     - blender
     - darktable
     - digikam
+    - gimp
+    - gpick
+    - inkscape
     - krita
+    - nitrogen
+    - nomacs
     - pinta
+    - ristretto
 - name: "Fun"
   description: "Fun"
   critical: false

@@ -6,8 +6,10 @@
   expanded: true
   packages:
     - brave
+    - chromium
     - deluge
     - dropbox
+    - evolution
     - falkon
     - filezilla
     - firefox-adblock-plus
@@ -20,6 +22,8 @@
     - nextcloud-client
     - opera
     - pidgin
+    - qbittorrent
     - qutebrowser
     - thunderbird
     - transmission-gtk
+    - vivaldi
